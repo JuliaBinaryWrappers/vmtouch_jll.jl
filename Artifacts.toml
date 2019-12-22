@@ -1,0 +1,97 @@
+[[vmtouch]]
+arch = "armv7l"
+git-tree-sha1 = "0f895b9569e2df2fe4232e14aea655feee916f1c"
+libc = "glibc"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "58d4426faf9405d6c7a41066af0dabf04ce99b2ae2e6d0b7f6983a62b23af226"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.arm-linux-gnueabihf.tar.gz"
+[[vmtouch]]
+arch = "x86_64"
+git-tree-sha1 = "8efd65548de91a80ec489c79f02d306b89c04bc1"
+libc = "glibc"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "eb88090c874a6de20cbd36350220003aff25411fd8cabc13821b0db4434ebbd2"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.x86_64-linux-gnu.tar.gz"
+[[vmtouch]]
+arch = "aarch64"
+git-tree-sha1 = "afaced566783e0c5372676aa6ea8a6c3c35a73e5"
+libc = "musl"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "d9d866928f49a1483bd4006ceda41ee97686a46a6cf0c5b2246e23c9f2153724"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.aarch64-linux-musl.tar.gz"
+[[vmtouch]]
+arch = "powerpc64le"
+git-tree-sha1 = "740c5d0eb065d26d2a3465a0a2df04f67b45331d"
+libc = "glibc"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "fd82e284c59e0b204acefb27953a529e39e148ea6de0cd5771973af53681b6ba"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.powerpc64le-linux-gnu.tar.gz"
+[[vmtouch]]
+arch = "x86_64"
+git-tree-sha1 = "cf076efd8587967364fd314269d42474f5c427a3"
+os = "macos"
+
+    [[vmtouch.download]]
+    sha256 = "f6ebf3be48844ba6a5cddb9c8246be6adaf7f832896f15ef21c5ef0446092864"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.x86_64-apple-darwin14.tar.gz"
+[[vmtouch]]
+arch = "x86_64"
+git-tree-sha1 = "5a6ccfe801b499b5d78ba1dd8be00734d7030451"
+libc = "musl"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "7056aaa1c73ef6b6d58c7e3aa3f0680cda7164b71c25f3939b162069ee5380c6"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.x86_64-linux-musl.tar.gz"
+[[vmtouch]]
+arch = "i686"
+git-tree-sha1 = "09c381c808af9a16ed7a42983c0b22697ee5b7a4"
+libc = "glibc"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "d4f7b6b32785717d1624969f498102c44622fd85bc8dad6c41b5eb9a6e24c14c"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.i686-linux-gnu.tar.gz"
+[[vmtouch]]
+arch = "aarch64"
+git-tree-sha1 = "79baafb4b454465561a58a477368a565763cc9dc"
+libc = "glibc"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "77ab48e7433acddb29e68d5a6c4585a67f49211459ec9bdcee72cd36adbebd10"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.aarch64-linux-gnu.tar.gz"
+[[vmtouch]]
+arch = "i686"
+git-tree-sha1 = "96e21fd523d8bf21c4d6eec94e11aea2073bb6ef"
+libc = "musl"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "863abcaae51f691fe3327d9de066124c3e696c162ad5cc78ea039467c8e50c30"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.i686-linux-musl.tar.gz"
+[[vmtouch]]
+arch = "x86_64"
+git-tree-sha1 = "cf7d5a4097eacceda85b29588fc7a2072e4923fa"
+os = "freebsd"
+
+    [[vmtouch.download]]
+    sha256 = "e33ecd2495f3425dce36ea0e0ec6ef5e0e0c78a347ea9bdd1cd41eb6403e52ff"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[vmtouch]]
+arch = "armv7l"
+git-tree-sha1 = "452ef90aae8cafff9e21a4241d85610a9c8719c3"
+libc = "musl"
+os = "linux"
+
+    [[vmtouch.download]]
+    sha256 = "5ff79c0a4d4ceab0bda057c0c15a69bc7efecf0ae65511f2c44d301b187a0363"
+    url = "https://github.com/JuliaBinaryWrappers/vmtouch_jll.jl/releases/download/vmtouch-v1.3.1+0/vmtouch.v1.3.1.arm-linux-musleabihf.tar.gz"
